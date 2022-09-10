@@ -1,5 +1,4 @@
 - 👋 Hello world, I’m @i-nida-code (and yes, my name is pronounced "needa").
 - 👀 I’m interested in computer science, mathematics, and statistics. 
 - 🌱 I’m currently an incoming first year.
-- 📕 I just finished AP CS A and a Kode With Klossy WebDev camp.
-- 📫 I'm currently learning more with the McDonald Institute's Summer of Science.
+- 📕 I just finished AP CS A, McDonald Astroparticle Physics Institute's Summer of Science, and a Kode With Klossy WebDev camp.
