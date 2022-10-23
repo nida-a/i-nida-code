@@ -1,4 +1,3 @@
-- 👋 Hello world, I’m @i-nida-code (and yes, my name is pronounced "needa").
-- 👀 I’m interested in computer science, mathematics, and statistics. 
-- 🌱 I’m currently an incoming first year.
-- 📕 I just finished AP CS A, McDonald Astroparticle Physics Institute's Summer of Science, and a Kode With Klossy WebDev camp.
+- 👋 Hello world, I’m Nida
+- 👀 I’m interested in mathematics, economics, and statistics. 
+- 🌱 I’m currently a first year student at the University of Alberta 
